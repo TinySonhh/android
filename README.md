@@ -3,8 +3,8 @@ Useful utilities and source code support Android projects
 
 
 <b>Content</b>
-1. Wireless ADB
-2. English Words
+1. [Wireless ADB](https://github.com/TinySonhh/android#1-wireless-adb)
+2. [English Words](https://github.com/TinySonhh/android#2-english-words)
 
 <br>
 
