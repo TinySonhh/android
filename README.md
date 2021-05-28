@@ -4,6 +4,7 @@ Useful utilities and source code support Android projects
 
 <b>Content</b>
 1. Wireless ADB
+2. English Words
 
 <br>
 
@@ -79,3 +80,12 @@ With the above result, you managed to connect to your Android phone via WIFI.
 * Recheck with `adb devices` or `adb logcat` if devices is online
 
 Good luck!
+
+
+## 2. English Words ##
+All possible English words that can help you in developing applications or games about word in English language.
+* [words.txt](https://github.com/TinySonhh/android/blob/main/languages/english/words.txt)
+* [words_more.txt ](https://github.com/TinySonhh/android/blob/main/languages/english/words_more.txt)
+
+
+THANK YOU.
